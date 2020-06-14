@@ -212,6 +212,42 @@ Oregon Writes Open Writing Text </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(113).pdf" style="text-decoration:none;">Let's Get Writing!</a></li>  
    
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(114).pdf" style="text-decoration:none;">Stand up, Speak out: The Practice and Ethics of Public Speaking</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(115).pdf" style="text-decoration:none;">Business English for Success</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(116).pdf" style="text-decoration:none;">Information Strategies for Communicators</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(117).pdf" style="text-decoration:none;">Communication, Affect, and Learning in the Classroom</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(118).pdf" style="text-decoration:none;">Business Communication for Success</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(119).pdf" style="text-decoration:none;">Media Studies 101</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(120).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(121).pdf" style="text-decoration:none;">Media, Society, Culture, and You</a></li>  
+   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(122).pdf" style="text-decoration:none;">Message Processing: The Science of Creating Understanding</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(123).pdf" style="text-decoration:none;">Exploring Public Speaking</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(124).pdf" style="text-decoration:none;">Be Credible</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(125).pdf" style="text-decoration:none;">Digital Foundations: Introduction to Media Design with the Adobe Creative Cloud</a></li>  
+
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(126).pdf" style="text-decoration:none;">The Data Journalism Handbook</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(127).pdf" style="text-decoration:none;">Communication in the Real World: An Introduction to Communication Studies</a></li>  
+
+
+
+
  </ul>
 
 
