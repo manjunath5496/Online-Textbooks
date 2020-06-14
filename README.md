@@ -66,7 +66,7 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(36).pdf" style="text-decoration:none;">Money and Banking</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(37).pdf" style="text-decoration:none;">Chinese Rhetoric and Writing: An Introduction for Language Teachers</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(38).pdf" style="text-decoration:none;">A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(38).pdf" style="text-decoration:none;">Writing for Electronic Media</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(39).pdf" style="text-decoration:none;">Open Research</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(40).pdf" style="text-decoration:none;">Eportfolio Performance Support Systems: Constructing, Presenting, and Assessing Portfolios</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(41).pdf" style="text-decoration:none;">Principles of Financial Accounting</a></li>
