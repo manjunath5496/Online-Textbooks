@@ -184,7 +184,7 @@ Oregon Writes Open Writing Text </a></li>
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(101).pdf" style="text-decoration:none;">Exploring Perspectives: A Concise Guide to Analysis</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(102).pdf" style="text-decoration:none;">Gamma/Hadron Separation in Imaging Air Cherenkov Telescopes Using Deep Learning Libraries TensorFlow and PyTorch</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(102).pdf" style="text-decoration:none;">A Guide to Technical Communications: Strategies and Applications</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(103).pdf" style="text-decoration:none;">Guidelines for Improving the Effectiveness of Boards of Directors of Nonprofit Organizations </a></li> 
