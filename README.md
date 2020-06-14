@@ -166,50 +166,50 @@ Oregon Writes Open Writing Text </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(92).pdf" style="text-decoration:none;">Digital Accessibility as a Business Practice</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(93).pdf" style="text-decoration:none;"> PDX Journeys: Studying and Living in the US, Low-Intermediate Novel and Textbook for University ESL Students</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(94).pdf" style="text-decoration:none;">Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(94).pdf" style="text-decoration:none;">Beyond Dichotomy: Synergizing Writing Center and Classroom Pedagogies</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(95).pdf" style="text-decoration:none;">Beyond argument: essaying as a practice of (ex)change </a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(96).pdf" style="text-decoration:none;">Focusing on Organizational Change</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(97).pdf" style="text-decoration:none;">Reduced-order modeling with artificial neurons for gravitational-wave inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(97).pdf" style="text-decoration:none;">Naming the Unnameable: An Approach to Poetry for New Generations</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(98).pdf" style="text-decoration:none;">A Rhetoric of Literate Action: Literate Action Volume 1</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(99).pdf" style="text-decoration:none;">Machine-learning Approaches to Exoplanet Transit Detection and Candidate Validation in Wide-field Ground-based Surveys</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(99).pdf" style="text-decoration:none;">Sharing Our Knowledge: Best Practices for Supporting English Language Learners in Schools</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(100).pdf" style="text-decoration:none;">Classification of Multiwavelength Transients with Machine Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(100).pdf" style="text-decoration:none;">Writing in College: From Competence to Excellence</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(101).pdf" style="text-decoration:none;">Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(101).pdf" style="text-decoration:none;">Exploring Perspectives: A Concise Guide to Analysis</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(102).pdf" style="text-decoration:none;">Gamma/Hadron Separation in Imaging Air Cherenkov Telescopes Using Deep Learning Libraries TensorFlow and PyTorch</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(103).pdf" style="text-decoration:none;">Particle identification in ground-based gamma-ray astronomy using convolutional neural networks </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(103).pdf" style="text-decoration:none;">Guidelines for Improving the Effectiveness of Boards of Directors of Nonprofit Organizations </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(104).pdf" style="text-decoration:none;">Deep Learning at Scale for the Construction of Galaxy Catalogs in the Dark Energy Survey</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(104).pdf" style="text-decoration:none;">Literature, the Humanities, and Humanity</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(105).pdf" style="text-decoration:none;">LinKS: Discovering galaxy-scale strong lenses in the Kilo-Degree Survey using Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(105).pdf" style="text-decoration:none;">Conventions 101: A Functional Approach to Teaching (And Assessing!) Grammar and Punctuation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(106).pdf" style="text-decoration:none;">Finding the origin of noise transients in LIGO data with machine learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(106).pdf" style="text-decoration:none;">BC Reads: Adult Literacy Fundamental English - Course Pack 6</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(107).pdf" style="text-decoration:none;">Denoising Weak Lensing Mass Maps with Deep Learning</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(108).pdf" style="text-decoration:none;">Systematic Serendipity: A Test of Unsupervised Machine Learning as a Method for Anomaly Detection</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(109).pdf" style="text-decoration:none;">A Machine Learning Based Morphological Classification of 14,245 Radio AGNs Selected From The Best-Heckman Sample</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(110).pdf" style="text-decoration:none;">Transfer Learning in Astronomy: A New Machine-Learning Paradigm</a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(111).pdf" style="text-decoration:none;">Machine Learning on Difference Image Analysis: A comparison of methods for transient detection</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(107).pdf" style="text-decoration:none;">Exploring Public Speaking</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(112).pdf" style="text-decoration:none;">Gravitational Wave Denoising of Binary Black Hole Mergers with Deep Learning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(108).pdf" style="text-decoration:none;">Becoming America: An Exploration of American Literature from Precolonial to Post-Revolution</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(113).pdf" style="text-decoration:none;">deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Articial Neural Networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(109).pdf" style="text-decoration:none;">British Literature: Middle Ages to the Eighteenth Century and Neoclassicism</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(110).pdf" style="text-decoration:none;">Writing for Strategic Communication Industries</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(111).pdf" style="text-decoration:none;">Writing for Success</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(112).pdf" style="text-decoration:none;">BC Reads: Adult Literacy Fundamental English - Course Pack 5</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Textbooks/blob/master/otx(113).pdf" style="text-decoration:none;">Let's Get Writing!</a></li>  
    
 
  </ul>
